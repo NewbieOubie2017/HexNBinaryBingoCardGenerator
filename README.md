@@ -18,3 +18,6 @@ Your card image is named autoBingo5.ps !
 Your card image is named autoBingo6.ps !
 Your card image is named autoBingo7.ps !
 Your card image is named autoBingo8.ps !
+
+NOTE the cards are large and may not be printable (I haven't tried yet) so I edited it to make is 1/2 as large. Hope that helps
+use AutomateBingoCardsGitHubHalf.py if you want the smaller size cards...
